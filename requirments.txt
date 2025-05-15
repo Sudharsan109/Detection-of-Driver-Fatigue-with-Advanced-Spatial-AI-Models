@@ -1,7 +1,8 @@
 streamlit
+ultralytics
 opencv-python
 pygame
-ultralytics
 pyttsx3
 twilio
 numpy
+torch
