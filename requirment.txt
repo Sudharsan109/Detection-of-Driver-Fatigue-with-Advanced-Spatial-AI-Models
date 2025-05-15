@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+pygame
+ultralytics
+pyttsx3
+twilio
+numpy
